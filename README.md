@@ -1,1 +1,1 @@
-# PokemonBattleSimulator
+# Pokemon Battle Simulator (WIP)
